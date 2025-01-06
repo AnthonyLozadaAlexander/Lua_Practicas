@@ -18,3 +18,9 @@ local cadena = "Hola, mundo"
 local booleano = true
 
 -- Variable de tabla (similar a array o diccionario)
+local tabla = { clave1 = "valor1", clave2 = "valor2"}
+local tabla1 = { 1, 2, 3, 4}
+
+local funcion = function()
+    print("Hola, soy una funcion")
+end
